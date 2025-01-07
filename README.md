@@ -1,26 +1,54 @@
-# Data Scientist
+# NOC ENGINEER
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Zabbix, OpManager, Symantec Backup Exec, AWS, VMware, Linux & Windows Server
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- bachelor of Science and Information Technology | POLYTECHNIC UNIVERSITY OF THE PHILIPPINES (_Apr 2019_)								       		
+#- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**NOC ENGINEER  
+FUJITSU (_May 2022 - Present_)**
+Monitored Microsoft 365 services through GCP, ensuring timely incident response.
+Proactively monitored vulnerabilities via email alerts and communicated them to the SOC
+team.
+Performed regular network checks and device monitoring using Zabbix and OpManager.
+Informed the infrastructure team of CPU, memory, disk utilization, and server issues (EXSi
+hosts, VMs, physical servers).
+Raised tickets and emailed network-related issues for core switches, distribution switches,
+firewalls, and ISPs.
+Proactively monitored Linux system health checks and addressed threshold exceeded.
+Checked and documented tape library transfers from SAP to NAS.
+Monitored 4 critical servers and sent update reminders to Japan.
+Logged and escalated incidents using ServiceNow, Redmine, and Jira.
+Conducted backups using Symantec Backup Exec to prevent data loss.
+Monitored AWS cloud resources for performance, health, and utilization.
+Generated weekly and monthly reports on system performance and incidents.
+Ensured proactive monitoring and compliance with SLA and KPI targets.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**NETWORK ADMINISTRATOR 
+MACH86 TECHNOLOGIES CORP (_February 2020 - 2022 May 15)**
+Day to day admin and monitoring of network use
+Install and configure computer OS and applications
+Install and repair network cables Troubleshooting computer issues
+Installing new hardware (Switches, Routers, Printers & Computer workstations
+
+**INTERNSHIP GLOBAL SERVICE DESK SUPPORT ANALYST 
+CAMBRIDGE UNIVERSITY PRESS
+ (_December 03 2018 - 2019 08 May)**
+Assigning closed and already solved tickets.
+Interactions regarding resolved issues between the team and the client.
+Generating reports from SQL queries for the Power BI Dashboard, covering major
+incidents and requests.
+ITIL Management discussion scheduled for the end of the week.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Advanced Networking Project 
+**May-June 2019**
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Troubleshooting and software - Setup based using Active Directory in Campus Computer Laboratory
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
@@ -41,7 +69,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
+# Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
 3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
