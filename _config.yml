@@ -7,8 +7,3 @@ show_downloads: true
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-architect
 
-
-
-git add path/to/PDFCerts/Zarco_Etyll_Joy_Microsoft_AZ-104.pdf
-git commit -m "Add certificate PDF"
-git push origin main
