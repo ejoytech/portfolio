@@ -1,6 +1,6 @@
-# **Objective**
+## **Profile Summary**
 
-Highly motivated IT professional with extensive experience in **network operations**, **cloud monitoring**, and **system administration**. Skilled in managing cloud resources on **AWS** and **GCP**, alongside system and network health monitoring using tools like **Zabbix** and **OpManager**. Proficient in troubleshooting network issues, managing virtualized environments (ESXi, VMware), and performing system backups using **Symantec Backup Exec**. Experienced in incident management with **ServiceNow**, **Jira**, and **Redmine**, ensuring adherence to **SLA** and **KPI** targets. Committed to continuous learning, with expertise in **Linux/Windows administration**, **network infrastructure**, and **cloud security**.
+A highly motivated IT professional with expertise in **network operations**, **cloud monitoring**, and **system administration**. Experienced in managing cloud resources on **AWS**, and monitoring system and network health using tools like **Zabbix** and **OpManager**. Experience in troubleshooting network issues, monitoring virtualized environments (**ESXi**, **VMware**), and managing network devices. Experienced in performing system backups with **Symantec Backup Exec**. Experienced in incident management using **ServiceNow**, **Jira**, and **Redmine**, ensuring compliance with **SLA** and **KPI** targets. Committed to continuous learning and development, with a solid foundation in **Linux/Windows administration**, **network infrastructure**, and **cloud security**.
 
 ---
 
