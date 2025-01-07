@@ -81,6 +81,7 @@ _May - June 2019_
 - **Ticket Management**: **ServiceNow**, **Jira**, **Redmine**  
 - **Monitoring**: **Zabbix**, **OpManager**  
 - **Database Reporting**: **SQL**, **Power BI**
+- **Knowledgeable in GitHub**
 
 ### **Non-Technical Skills:**
 - Attention to Detail  
@@ -92,12 +93,13 @@ _May - June 2019_
 - Self-Motivated  
 
 ---
-
-# **Profile Picture**
+<!-- This section is hidden in the GitHub profile page -->
+<!--# **Profile Picture**
 
 ![Profile Picture](https://github.com/ejoytech/portfolio/blob/main/profile.jfif)  <!-- Replace with your profile picture file path -->
 
 ---
+-->
 
 # **Certifications**
 
