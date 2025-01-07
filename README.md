@@ -107,4 +107,5 @@ _May - June 2019_
 ![Microsoft Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/CCNA_2023/CISCO_certificate.pdf)  <!-- Replace with your certificate image file path -->
   
 ### **CCNA - Cisco Certified Network Associate**
-![CCNA Certificate]([images/ccna_certificate.jpg](https://raw.githubusercontent.com/ejoytech/portfolio/main/PDFCerts/Zarco_Etyll_Joy_Microsoft_AZ-104.pdf))  <!-- Replace with your CCNA certificate image file path -->
+![CCNA Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/PDFCerts/Zarco_Etyll_Joy_Microsoft_AZ-104.pdf)  <!-- Replace with your CCNA certificate image file path -->
+
