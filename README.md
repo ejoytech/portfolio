@@ -95,7 +95,7 @@ _May - June 2019_
 
 # **Profile Picture**
 
-![Profile Picture](images/profile_picture.jpg)  <!-- Replace with your profile picture file path -->
+![Profile Picture](https://github.com/ejoytech/portfolio/blob/main/profile.jfif)  <!-- Replace with your profile picture file path -->
 
 ---
 
