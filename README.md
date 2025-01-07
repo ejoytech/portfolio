@@ -94,12 +94,11 @@ _May - June 2019_
 
 ---
 <!-- This section is hidden in the GitHub profile page -->
-<!--# **Profile Picture**
+<!--# **Profile Picture** -->
 
 ![Profile Picture](https://github.com/ejoytech/portfolio/blob/main/profile.jfif)  <!-- Replace with your profile picture file path -->
 
----
--->
+
 
 # **Certifications**
 
