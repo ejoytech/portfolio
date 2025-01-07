@@ -58,7 +58,7 @@ _May - June 2019_
 
 # **Training**
 
-- **Network and Basic System Admin** _(2015 - 2019)_  
+- **Network and Basic System Admin** _(March 23-24 2024)_  
 - **Linux System Admin** _(December 2024)_
 
 ---
@@ -97,8 +97,7 @@ _May - June 2019_
 # **Certifications**
 
 ### **Microsoft Certified: AZ-104**
-![Microsoft Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/CCNA_2023/CISCO_certificate.pdf)  <!-- Replace with your certificate image file path -->
-  
-### **CCNA - Cisco Certified Network Associate**
-![CCNA Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/PDFCerts/Zarco_Etyll_Joy_Microsoft_AZ-104.pdf)  <!-- Replace with your CCNA certificate image file path -->
+[Microsoft Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/CCNA_2023/CISCO_certificate.pdf)
 
+### **CCNA - Cisco Certified Network Associate**
+[CCNA Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/PDFCerts/Zarco_Etyll_Joy_Microsoft_AZ-104.pdf)
