@@ -1,3 +1,15 @@
+# **Objective**
+
+Highly motivated IT professional with extensive experience in **network operations**, **cloud monitoring**, and **system administration**. Skilled in managing cloud resources on **AWS** and **GCP**, alongside system and network health monitoring using tools like **Zabbix** and **OpManager**. Proficient in troubleshooting network issues, managing virtualized environments (ESXi, VMware), and performing system backups using **Symantec Backup Exec**. Experienced in incident management with **ServiceNow**, **Jira**, and **Redmine**, ensuring adherence to **SLA** and **KPI** targets. Committed to continuous learning, with expertise in **Linux/Windows administration**, **network infrastructure**, and **cloud security**.
+
+---
+
+# **About Me**
+
+I am passionate about **learning in advance** and staying ahead of emerging technologies to help the company I work with achieve its goals. I am constantly looking for opportunities to expand my knowledge, whether it’s through hands-on experience, training, or exploring new technologies. I believe that by continuously learning, I can not only enhance my own skills but also contribute to the growth and success of my team and organization. I am eager to take on challenges that require innovative solutions and embrace new learning opportunities to stay ahead of the curve.
+
+---
+
 # **Work Experience**
 
 ### **NOC Engineer**  
@@ -54,7 +66,8 @@ _May - June 2019_
 # **Certifications**
 
 - **Microsoft Certified: AZ-104** _(January 2023)_  
-- **Microsoft 365: Fundamentals** _(January 2024)_
+- **Microsoft 365: Fundamentals** _(January 2024)_  
+- **CCNA - Cisco Certified Network Associate** _(January 2023)_
 
 ---
 
@@ -67,7 +80,7 @@ _May - June 2019_
 - **Backup & Recovery**: **Symantec Backup Exec**, NAS  
 - **Ticket Management**: **ServiceNow**, **Jira**, **Redmine**  
 - **Monitoring**: **Zabbix**, **OpManager**  
-- **Database Reporting**: **SQL**, **Power BI**  
+- **Database Reporting**: **SQL**, **Power BI**
 
 ### **Non-Technical Skills:**
 - Attention to Detail  
@@ -79,3 +92,17 @@ _May - June 2019_
 - Self-Motivated  
 
 ---
+
+# **Profile Picture**
+
+![Profile Picture](images/profile_picture.jpg)  <!-- Replace with your profile picture file path -->
+
+---
+
+# **Certifications**
+
+### **Microsoft Certified: AZ-104**
+![Microsoft Certificate](images/certificate.jpg)  <!-- Replace with your certificate image file path -->
+  
+### **CCNA - Cisco Certified Network Associate**
+![CCNA Certificate](images/ccna_certificate.jpg)  <!-- Replace with your CCNA certificate image file path -->
