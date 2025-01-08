@@ -94,20 +94,10 @@ _May - June 2019_
 
 ---
 
-# My Portfolio
+# **Certifications**
 
-# Certifications
+### **Microsoft Certified: AZ-104**
+[Microsoft Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/Cert/CCNA_Cert.png)
 
-- **Microsoft Certified: AZ-104**  
-  Credential ID: [View Certification](https://raw.githubusercontent.com/ejoytech/portfolio/main/Cert/AZ104_Cert.png)  
-  Certification in managing Microsoft Azure resources, services, and infrastructure.
-
-- **Cisco Certified Network Associate (CCNA)**  
-  Credential ID: [View Certification](https://raw.githubusercontent.com/ejoytech/portfolio/main/Cert/CCNA_Cert.png)  
-  Certification in networking fundamentals, including configuring, troubleshooting, and securing networks.
-
-- **Linux Administration Essentials**  
-  Proficient in managing Linux servers, including system health checks, backups, and user administration.
-
-- **VMware Certified**  
-  Hands-on experience with VMware and Windows Server 2019, covering AD, DHCP, and Group Policies implementation.
+### **CCNA - Cisco Certified Network Associate**
+[CCNA Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/Cert/AZ104_Cert.png)
