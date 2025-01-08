@@ -97,7 +97,7 @@ _May - June 2019_
 # **Certifications**
 
 ### **Microsoft Certified: AZ-104**
-[Microsoft Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/Certificate/CCNA_certificate.pdf)
+[Microsoft Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/Cert/CCNA_Cert.png)
 
 ### **CCNA - Cisco Certified Network Associate**
-[CCNA Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/Certificate/Microsoft_AZ-104.pdf)
+[CCNA Certificate](https://raw.githubusercontent.com/ejoytech/portfolio/main/Cert/AZ104_Cert.png)
