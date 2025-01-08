@@ -98,5 +98,5 @@ _May - June 2019_
 
 ## Certificates
 
-- (https://raw.githubusercontent.com/ejoytech/portfolio/main/Certificate/AZ104_Cert.pdf)
-- (https://raw.githubusercontent.com/ejoytech/portfolio/main/Certificate/CCNA_Cert.pdf)
+ https://raw.githubusercontent.com/ejoytech/portfolio/main/Certificate/AZ104_Cert.pdf
+ https://raw.githubusercontent.com/ejoytech/portfolio/main/Certificate/CCNA_Cert.pdf
